@@ -2,3 +2,4 @@ azure-mgmt-resource
 azure-mgmt-compute
 azure-mgmt-network
 azure-identity
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
