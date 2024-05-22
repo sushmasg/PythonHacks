@@ -2,3 +2,4 @@ functions-framework==3.*
 google-cloud-bigquery==3.11.0
 google-cloud-storage==2.9.0
 PyYAML==6.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
