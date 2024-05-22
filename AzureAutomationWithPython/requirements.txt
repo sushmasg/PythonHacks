@@ -1,3 +1,4 @@
 azure-mgmt-resource
 azure-mgmt-storage
 azure-identity
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
